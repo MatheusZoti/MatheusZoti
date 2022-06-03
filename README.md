@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MatheusZoti
-- 👀 I’m interested in web, game design and hacker stuff.
-- 🌱 I’m currently learning Javascript, Python and C++.
-- 💞️ I’m looking to make computers do things... terrible things.
-- 📫 You can contact me on Instagram: matheus_zoti.
+- 👀 I’m interested in general programming and web design.
+- 🌱 I’m currently learning Javascript, Typecript, React, Angular, NodeJS and RxJS.
+- 📫 You can contact me on my website: https://www.matheuszoti.com.br/:
 
 <!---
 MatheusZoti/MatheusZoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
